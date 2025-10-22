@@ -1,6 +1,6 @@
 # Hi there, I'm Manikandan 👋
 
-## (Aspiring MERN-Stack Developer)
+## Aspiring MERN-Stack Developer
 
 ### 🛠️ Developer Tools:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
