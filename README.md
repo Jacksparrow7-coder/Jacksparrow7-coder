@@ -31,13 +31,3 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manikandansaravanan102004@gmail.com)
 
 ---
-
-### 💡 Tip:
-If your **streak still doesn’t load**, go to your GitHub →  
-⚙️ **Settings → Profile → Contributions & Activity → Enable "Show private contributions"**  
-Then refresh your profile or open this link directly in browser:  
-👉 https://github-readme-streak-stats.herokuapp.com/?user=Jacksparrow7-coder&theme=radical
-
----
-
-✨ *“Building projects one bug at a time — because error makes clever.”*
