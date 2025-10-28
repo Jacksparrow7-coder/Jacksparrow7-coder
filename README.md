@@ -1,8 +1,8 @@
 # Hi there, I'm Manikandan 👋
 
-## Aspiring MERN-Stack Developer
+## 🚀 Aspiring MERN-Stack Developer
 
-### 🛠️ Developer Tools:
+### 🛠️ Developer Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -15,16 +15,29 @@
 
 ## 📊 GitHub Stats
 
-![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jacksparrow7-coder&show_icons=true&theme=radical)
-![Mani's GitHub Streak](https://your-deploy-url.vercel.app?user=Jacksparrow7-coder&theme=radical)
+![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jacksparrow7-coder&show_icons=true&theme=radical&hide_border=true)
 
+![Mani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jacksparrow7-coder&theme=radical&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksparrow7-coder&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-kandan-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__.mani.______/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jacksparrow7-coder)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manikandansaravanan102004@gmail.com)
+
+---
+
+### 💡 Tip:
+If your **streak still doesn’t load**, go to your GitHub →  
+⚙️ **Settings → Profile → Contributions & Activity → Enable "Show private contributions"**  
+Then refresh your profile or open this link directly in browser:  
+👉 https://github-readme-streak-stats.herokuapp.com/?user=Jacksparrow7-coder&theme=radical
+
+---
+
+✨ *“Building projects one bug at a time — because error makes clever.”*
