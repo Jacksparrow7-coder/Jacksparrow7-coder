@@ -16,8 +16,8 @@
 ## 📊 GitHub Stats
 
 ![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jacksparrow7-coder&show_icons=true&theme=radical)
+![Mani's GitHub Streak](https://streak-stats.demolab.com?user=Jacksparrow7-coder&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1)
 
-![Mani's GitHub Streak](https://streak-stats.demolab.com?user=Jacksparrow7-coder&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ---
 
