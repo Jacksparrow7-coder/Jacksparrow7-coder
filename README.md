@@ -17,9 +17,9 @@
 
 ![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandan-dev7-coder&show_icons=true&theme=radical&hide_border=true)
 
-![Mani's GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=Jacksparrow7-coder&theme=radical&hide_border=true)
+![Mani's GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=manikandan-dev7-coder&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksparrow7-coder&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-dev7-coder&layout=compact&theme=radical&hide_border=true)
 
 ---
 
