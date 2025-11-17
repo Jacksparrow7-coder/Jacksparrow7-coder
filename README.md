@@ -15,19 +15,17 @@
 
 ## 📊 GitHub Stats
 
-![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandan-dev7-coder&show_icons=true&theme=radical&hide_border=true)
+![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikandan-dev7&show_icons=true&theme=radical&hide_border=true)
 
-![Mani's GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=manikandan-dev7-coder&theme=radical&hide_border=true)
+![Mani's GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=manikandan-dev7&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-dev7-coder&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikandan-dev7&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🔗 Connect with Me.
+## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-kandan-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-kandan-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__.mani.______/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jacksparrow7-coder)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manikandan-dev7)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manikandansaravanan102004@gmail.com)
-
----
